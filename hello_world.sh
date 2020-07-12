@@ -1,2 +1,2 @@
 echo "Hello World"
-echo "lets run this file on Jenkins"
+echo "let's run this file on Jenkins"
